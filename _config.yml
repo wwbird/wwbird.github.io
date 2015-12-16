@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 修行
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "在路上"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://jerrywang.cn"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " JerryWang"
+  email: 
+  bio: "###"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
